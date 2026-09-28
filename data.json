@@ -1,0 +1,346 @@
+{
+  "destinations": [
+    {
+      "id": "dead-sea-region",
+      "name": "The Dead Sea - The Lowest Point on Earth",
+      "location": "Dead Sea, Jordan Valley, Balqa / Madaba Governorates",
+      "categories": [
+        "Relaxation"
+      ],
+      "description": "The lowest point on Earth at 427m below sea level, offering healing mineral waters, natural mud baths, and historic heritage sites.",
+      "estimatedCost": "$50 - $120",
+      "duration": "Full Day / 6-8 hrs",
+      "bestTime": "Morning / Autumn & Spring",
+      "budgetLevel": "Moderate / Premium",
+      "image": "images/dead-sea.jpg",
+      "mapsLink": "https://maps.google.com/?q=Dead+Sea+Jordan"
+    },
+    {
+      "id": "main-hot-springs",
+      "name": "Ma'in Hot Springs (Hammamat Ma'in)",
+      "location": "Madaba Governorate, 27 km southwest of Madaba, near the Dead Sea",
+      "categories": [
+        "Relaxation"
+      ],
+      "description": "A natural thermal oasis located 264m below sea level, featuring mineral-rich hot waterfalls heated up to 63°C by underground volcanic fissures.",
+      "estimatedCost": "$15 - $70 (Day Pass / Spa options)",
+      "duration": "Half Day / 4-6 hrs",
+      "bestTime": "Autumn, Winter & Spring / Early Morning or Evening",
+      "budgetLevel": "Moderate",
+      "image": "images/main-hot-springs.jpg",
+      "mapsLink": "https://maps.google.com/?q=Main+Hot+Springs+Jordan"
+    },
+    {
+      "id": "aqaba-coastal-gem",
+      "name": "Aqaba - The Coastal Gem of Jordan",
+      "location": "Aqaba Governorate, Southern Jordan (4 hours drive from Amman)",
+      "categories": [
+        "Relaxation"
+      ],
+      "description": "Jordan's coastal city on the Red Sea, offering world-class diving, water sports, luxury resorts, and a rich historical heritage dating back to early Islamic and Mamluk eras.",
+      "estimatedCost": "$80 - $250",
+      "duration": "1 - 3 Days",
+      "bestTime": "Autumn, Winter & Spring",
+      "budgetLevel": "Moderate / Premium",
+      "image": "images/aqaba.jpg",
+      "mapsLink": "https://maps.google.com/?q=Aqaba+Jordan"
+    },
+    {
+      "id": "azraq-wetland-reserve",
+      "name": "Azraq Wetland Reserve",
+      "location": "Azraq, Eastern Desert, Zarqa Governorate (115 km East of Amman)",
+      "categories": [
+        "Hidden Gems"
+      ],
+      "description": "A unique wetland oasis in the Eastern Desert, listed under the Ramsar Convention and IUCN Green List, serving as a vital sanctuary for migratory birds and the endemic Sarhani fish.",
+      "estimatedCost": "$10 - $35",
+      "duration": "Half Day / 3-5 hrs",
+      "bestTime": "Spring & Autumn (Bird Migration Seasons)",
+      "budgetLevel": "Budget / Moderate",
+      "image": "images/azraq-wetland.jpg",
+      "mapsLink": "https://maps.google.com/?q=Azraq+Wetland+Reserve"
+    },
+    {
+      "id": "pella-tabaqat-fahl",
+      "name": "Pella (Tabaqat Fahl)",
+      "location": "Northwestern Jordan, Eastern hills of the Jordan Valley (Ghor)",
+      "categories": [
+        "Hidden Gems"
+      ],
+      "description": "An ancient Decapolis city with over 6,000 years of history, featuring Classical theaters, ancient tombs, Byzantine churches, and an Umayyad mosque overlooking the Jordan Valley.",
+      "estimatedCost": "$5 - $20",
+      "duration": "Half Day / 3-4 hrs",
+      "bestTime": "Spring & Autumn",
+      "budgetLevel": "low-cost",
+      "image": "images/pella.jpg",
+      "mapsLink": "https://maps.google.com/?q=Pella+Tabaqat+Fahl+Jordan"
+    },
+    {
+      "id": "wadi-hidan",
+      "name": "Wadi Hidan",
+      "location": "Madaba Governorate",
+      "categories": [
+        "Adventureon","Hidden Gems"
+      ],
+     
+      "description": "A dramatic black-basalt canyon featuring natural pools, flowing water, waterfalls, and vegetation. You can experience hiking, swimming, and canyoning while moving through the narrow canyon.*You should expect to get wet",
+      "estimatedCost": "$40 - $56",
+      "duration": "Half Day / 3-4 hrs",
+      "bestTime": "ُEarly morning / Autumn & Spring",
+      "budgetLevel": "Moderate",
+      "image": "images/wadi-hidan.jpg",
+      "mapsLink": "https://maps.app.goo.gl/Squfri4BJGdo2MWE7Short "
+    },
+    {
+      "id": "ajloun",
+      "name": "Ajloun",
+      "location": "Ajloun Governorate, northern Jordan",
+      "categories": [
+        "Food & Local Experiences"
+      ],
+     
+      "description": "Ajloun is a green mountainous destination in northern Jordan, known for its forests, historical sites, and outdoor activities. Its main attractions include the historic Ajloun Castle, Ajloun Forest Reserve, Mar Elias, and several hiking and nature trails.Ajloun is particularly known for its green landscapes and wildflowers during spring.",
+      "estimatedCost": "$15 - $23",
+      "duration": "1 full day",
+      "bestTime": "Autumn & Spring",
+      "budgetLevel": "Moderate",
+      "image": "images/ajloun.jpg",
+      "mapsLink": "https://maps.app.goo.gl/GpMLapZ7KB4N5nR79 "
+    },
+    {
+      "id": "as-salt",
+      "name": "As-Salt",
+      "location": "Al-Balqa Governorate, north-west of Amman",
+      "categories": [
+        "Food & Local Experiences","History & Culture","Hidden Gems"
+      ],
+     
+      "description": "As-Salt is a historic Jordanian city known for its distinctive yellow-limestone architecture, traditional streets and stairways, historic houses, cultural heritage, and traditions of hospitality.The city's historic core contains approximately 650 significant historic buildings and reflects architectural influences from the late Ottoman period, including European Art Nouveau and Neo-Colonial styles combined with local traditions. ",
+      "estimatedCost": "$10 - $22",
+      "duration": "Half day to 1 full day",
+      "bestTime": "Morning to late afternoon / Autumn & Spring",
+      "budgetLevel": "Budget",
+      "image": "images/as-salt.jpg",
+      "mapsLink": "https://maps.app.goo.gl/VGBfityJy8BGbUkDA "
+    },
+    {
+      "id": "iraq-al-amir",
+      "name": "Iraq Al-Amir",
+      "location": "Wadi Al-Seer, southwest of Amman, Jordan",
+      "categories": [
+        "Food & Local Experiences","Hidden Gems"
+      ],
+     
+      "description": "A historical and natural destination famous for its Hellenistic heritage, olive trees, springs, and ancient caves. Its most important archaeological landmark is Qasr Al-Abd (Qasr Al-Abed), one of the few surviving examples of pre-Roman architecture in Jordan. The area also offers cultural experiences through the Iraq Al-Amir Women's Cooperative, where visitors can learn about traditional handicrafts and local heritage.",
+      "estimatedCost": "$2 - $14",
+      "duration": "Half Day / 3-5 hrs",
+      "bestTime": "Morning / Autumn & Spring",
+      "budgetLevel": "Budget",
+      "image": "images/iraq-al-amir.jpg",
+      "mapsLink": "https://maps.app.goo.gl/7H5WkQV4PfyV4yRz7 "
+    },
+    {
+      "id": "madaba",
+      "name": "Madaba",
+      "location": "Madaba Governorate, central Jordan",
+      "categories": [ 
+        "Food & Local Experiences","History & Culture"
+      ],
+     
+      "description": "Madaba, known as the “City of Mosaics,” is one of Jordan’s most important cultural and religious tourism destinations. It is particularly famous for its Byzantine and Umayyad mosaics, especially the 6th-century Madaba Mosaic Map preserved in the Greek Orthodox Church of St. George. The city also offers archaeological sites, museums, traditional handicrafts, and access to nearby attractions such as Mount Nebo and Umm ar-Rasas.",
+      "estimatedCost": "$10 - $22",
+      "duration": "Half day to 1 full day",
+      "bestTime": "Morning / Autumn & Spring",
+      "budgetLevel": "Budget",
+      "image": "images/madaba.jpg",
+      "mapsLink": "https://maps.app.goo.gl/7JXcUJSHLoUMU2xn9 "
+    },
+    {
+      "id": "dana-biosphere-reserve",
+      "name": "Dana Biosphere Reserve",
+      "location": "Tafilah Governorate, southern Jordan",
+      "categories": [ 
+        "Nature","Adventure","Relaxation"
+      ],
+     
+      "description": "Dana Biosphere Reserve is the largest biosphere reserve in Jordan and was established in 1989. It was designated as a UNESCO Biosphere Reserve in 1998. The reserve is characterized by dramatic mountains, deep valleys, sandstone formations, diverse ecosystems, and rich biodiversity. It contains three major biogeographical regions and is home to a wide variety of plants and wildlife. Some of its best-known trails include Wadi Dana, Wadi Ghweir, White Dome, Nawatef, and Rummana Mountain.",
+      "estimatedCost": "$15 - $30",
+      "duration": "1 full day",
+      "bestTime": "Early morning / Autumn & Spring",
+      "budgetLevel": "Moderate",
+      "image": "images/dana.jpg",
+      "mapsLink": "https://maps.app.goo.gl/WiH6Bs9ptaowsZHJ8"
+    }
+  ],
+  "guides": [
+    {
+      "id": "guide-01",
+      "name": "Tariq Al-Majali",
+      "photo": "images/guides/tariq.jpg",
+      "location": "Petra & Southern Jordan",
+      "yearsOfExperience": 12,
+      "languages": [
+        "Arabic",
+        "English",
+        "French"
+      ],
+      "expertise": [
+        "History & Culture", "Bedouin Heritage"
+      ],
+      "shortBio": "Licensed tour guide with over 12 years of experience showcasing Nabataean history, ancient trade routes, and authentic Bedouin hospitality.",
+      "certification": "Ministry of Tourism & Antiquities Licensed National Guide",
+      "destinations": [
+        "Petra",
+        "Wadi Rum",
+        "Karak"
+      ],
+      "categories": [
+        "History & Culture",
+        "Hidden Gems",
+        "Food & Local Experiences"
+      ],
+      "contactEmail": "tariq.majali@joroutes.demo"
+    },
+    {
+      "id": "guide-02",
+      "name": "Sarah Al-Qudah",
+      "photo": "images/guides/sarah.jpg",
+      "location": "Ajloun & Northern Jordan",
+      "yearsOfExperience": 6,
+      "languages": [
+        "Arabic",
+        "English"
+      ],
+      "expertise": [
+        "Eco-Tourism",
+        "Hiking & Nature Trails"
+      ],
+      "shortBio": "Environmental researcher and local trail leader specializing in forest biodiversity, olive harvesting tours, and northern ecosystem hikes.",
+      "certification": "RSCN Certified Eco-Guide & Wilderness First Responder",
+      "destinations": [
+        "Ajloun Forest Reserve",
+        "Pella",
+        "Umm Qais"
+      ],
+      "categories": [
+        "Nature",
+        "Adventure",
+        "Hidden Gems"
+      ],
+      "contactEmail": "sarah.qudah@joroutes.demo"
+    },
+    {
+      "id": "guide-03",
+      "name": "Abdullah Al-Hweitayt",
+      "photo": "images/guides/abdullah.jpg",
+      "location": "Wadi Rum & Aqaba",
+      "yearsOfExperience": 9,
+      "languages": [
+        "Arabic",
+        "English",
+        "Spanish"
+      ],
+      "expertise": [
+        "Desert Expeditions",
+        "Stargazing & Marine Diving"
+      ],
+      "shortBio": "Wadi Rum native expert in 4x4 desert safari expeditions, traditional Bedouin camping, and Red Sea marine diving experiences.",
+      "certification": "Jordan Tourist Guide Association (JTGA) Certified Member",
+      "destinations": [
+        "Wadi Rum",
+        "Aqaba South Beach",
+        "Disah"
+      ],
+      "categories": [
+        "Adventure",
+        "Relaxation"
+      ],
+      "contactEmail": "abdullah.hweitayt@joroutes.demo"
+    },
+    {
+      "id": "guide-04",
+      "name": "Khaled Al-Abbadi",
+      "photo": "images/guides/khaled.jpg",
+      "location": "Dead Sea & Madaba Region",
+      "yearsOfExperience": 8,
+      "languages": [
+        "Arabic",
+        "English",
+        "German"
+      ],
+      "expertise": [
+        "Religious Tourism",
+        "Wellness & Spa Trails"
+      ],
+      "shortBio": "Specialist in early Christian pilgrimage sites, Byzantine mosaic history, and wellness/thermal spring experiences across the Rift Valley.",
+      "certification": "MoTA Certified Cultural Heritage & Religious Sites Guide",
+      "destinations": [
+        "Dead Sea",
+        "Ma'in Hot Springs",
+        "Baptism Site (Bethany)",
+        "Madaba"
+      ],
+      "categories": [
+        "Relaxation",
+        "History & Culture"
+      ],
+      "contactEmail": "khaled.abbadi@joroutes.demo"
+    },
+    {"id": "guide-05",
+      "name": "Nour Al-Zaben",
+      "photo": "images/guides/nour.jpg",
+      "location": "Eastern Desert & Badia",
+      "yearsOfExperience": 5,
+      "languages": [
+        "Arabic",
+        "English"
+      ],
+      "expertise": [
+        "Birdwatching",
+        "Desert Castles & Conservation"
+      ],
+      "shortBio": "Passionate wildlife enthusiast and oasis conservation specialist focused on migratory bird tracking and Umayyad desert architecture.",
+      "certification": "RSCN Wetland Specialist & Certified Local Guide",
+      "destinations": [
+        "Azraq Wetland Reserve",
+        "Shaumari Reserve",
+        "Qasr Amra",
+        "Qasr Kharana"
+      ],
+      "categories": [
+        "Nature",
+        "Hidden Gems",
+        "History & Culture"
+      ],
+      "contactEmail": "nour.zaben@joroutes.demo"
+    },
+    {
+      "id": "guide-06",
+      "name": "Ziad Al-Nabulsi",
+      "photo": "images/guides/ziad.jpg",
+      "location": "Amman & Decapolis Cities",
+      "yearsOfExperience": 7,
+      "languages": [
+        "Arabic",
+        "English",
+        "Italian"
+      ],
+      "expertise": [
+        "Urban Culinary",
+        "Roman Architecture & Street Art"
+      ],
+      "shortBio": "Amman urban historian leading downtown street food tastings, local artisan workshops, and Graeco-Roman architectural walking tours.",
+      "certification": "JTGA Certified Urban Tour Specialist",
+      "destinations": [
+        "Downtown Amman",
+        "Jerash",
+        "Umm el-Jimal"
+      ],
+      "categories": [
+        "Food & Local Experiences",
+        "History & Culture"
+      ],
+      "contactEmail": "ziad.nabulsi@joroutes.demo"
+    }
+  ]
+}
