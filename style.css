@@ -99,7 +99,13 @@ h3 { font-size: 21px; line-height: 1.25; }
   position: relative;
   background: linear-gradient(rgba(47,31,20,.40), rgba(47,31,20,.48)), url('#') center/cover no-repeat;
   color: var(--white);
+  
+  background-image: url('images/HeroSection_homepage.webp'); 
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
 }
+
 .hero::after { content: ''; position: absolute; inset: 0; background: linear-gradient(90deg, rgba(45,29,19,.48), transparent 65%); pointer-events: none; }
 .hero-content { position: relative; z-index: 1; width: min(760px, 100%); text-align: center; }
 .hero .eyebrow { border-radius: 999px; padding: 6px 16px; background-color:#FCFAF626; backdrop-filter: blur(12px); font-size: 12px; color: #FCFAF6; /*width:fit-content;*/ }
