@@ -12,7 +12,7 @@
       "duration": "Full Day / 6-8 hrs",
       "bestTime": "Morning / Autumn & Spring",
       "budgetLevel": "Moderate / Premium",
-      "image": "images/dead-sea.jpg",
+      "image": "images/dead_sea.jpeg",
       "mapsLink": "https://maps.google.com/?q=Dead+Sea+Jordan"
     },
     {
@@ -27,7 +27,7 @@
       "duration": "Half Day / 4-6 hrs",
       "bestTime": "Autumn, Winter & Spring / Early Morning or Evening",
       "budgetLevel": "Moderate",
-      "image": "images/main-hot-springs.jpg",
+      "image": "images/main_hot_springs.jpeg",
       "mapsLink": "https://maps.google.com/?q=Main+Hot+Springs+Jordan"
     },
     {
@@ -42,7 +42,7 @@
       "duration": "1 - 3 Days",
       "bestTime": "Autumn, Winter & Spring",
       "budgetLevel": "Moderate / Premium",
-      "image": "images/aqaba.jpg",
+      "image": "images/aqaba.jpeg",
       "mapsLink": "https://maps.google.com/?q=Aqaba+Jordan"
     },
     {
@@ -57,7 +57,7 @@
       "duration": "Half Day / 3-5 hrs",
       "bestTime": "Spring & Autumn (Bird Migration Seasons)",
       "budgetLevel": "Budget / Moderate",
-      "image": "images/azraq-wetland.jpg",
+      "image": "images/azraq_wetland_reserve.JPG",
       "mapsLink": "https://maps.google.com/?q=Azraq+Wetland+Reserve"
     },
     {
@@ -88,7 +88,7 @@
       "duration": "Half Day / 3-4 hrs",
       "bestTime": "ُEarly morning / Autumn & Spring",
       "budgetLevel": "Moderate",
-      "image": "images/wadi-hidan.jpg",
+      "image": "images/wadi-hidan.jpeg",
       "mapsLink": "https://maps.app.goo.gl/Squfri4BJGdo2MWE7Short "
     },
     {
@@ -120,7 +120,7 @@
       "duration": "Half day to 1 full day",
       "bestTime": "Morning to late afternoon / Autumn & Spring",
       "budgetLevel": "Budget",
-      "image": "images/as-salt.jpg",
+      "image": "images/as-salt.jpeg",
       "mapsLink": "https://maps.app.goo.gl/VGBfityJy8BGbUkDA "
     },
     {
@@ -178,7 +178,7 @@
      "estimatedCost": "$7 — $45",
      "duration":  "(7 — 8) hours",
      "bestTime": "Spring and Autumn",
-     "image":"./images/petra.jpg",
+     "image":"images/Petra.webp",
      "mapsLink": "https://maps.app.goo.gl/cJaqrWeN7N7C59wW8?g_st=aw"},
     {"id": "Karak Castle",
       "name":"Karak Castle",
@@ -188,7 +188,7 @@
      "estimatedCost":" $1 — $3  " ,
      "duration": "(2—3) hours" ,
      "bestTime": "Any Time",
-     "image":"./images/Karak-Castle.jpg",
+     "image":"images/Karak-Castle.webp",
      "mapsLink": "https://maps.app.goo.gl/vLqZRECHrzxRvqjy6?g_st=aw"},
     {"id":"Wadi Mujib",
      "name":"Wadi Mujib",
@@ -198,7 +198,7 @@
      "estimatedCost":" $5 — $15  " ,
      "duration": "(4—7) hours" ,
      "bestTime":"Summer and Autumn" ,
-     "image":"./images/wadiAlmujib.jpg",
+     "image":"images/WadiAlmujib.jpg",
      "mapsLink": "https://maps.app.goo.gl/MRNaMhjrGcSZhJub6?g_st=ac"
     },
     {"id":"Wadi Rum",
@@ -209,7 +209,7 @@
      "estimatedCost":" $14 — $110  " ,
      "duration": "(6—8) hours" ,
      "bestTime":"Autumn" ,
-     "image":"./images/WadiRum.jpg",
+     "image":"images/WadiRum.jpg",
      "mapsLink": "https://maps.app.goo.gl/3Ab8r7n98xWqFbpq7?g_st=aw"},
   {"id":" Roman Theatre",
      "name":"Roman Theatre",
@@ -219,7 +219,7 @@
      "estimatedCost":" $1 — $3  " ,
      "duration": "1 hour" ,
      "bestTime":" any Time" ,
-     "image":"./images/RomanTheatre.jpg",
+     "image":"images/RomanTheatre.jpg",
      "mapsLink": "https://maps.app.goo.gl/s3wRw9DzyLuBZ1FC8?g_st=aw"
   }
  ,{   "id":"Ajloun Forest Reserve ",
@@ -230,7 +230,7 @@
       "estimatedCost":" $2 — $7  " ,
       "duration": "(2—6) hours" ,
      "bestTime":"Spring and Autumn" ,
-     "image":"./images/ajlounForest.jpg",
+     "image":"images/ajlounForest.jpg",
      "mapsLink": "https://maps.app.goo.gl/cChQjArDBcabAGBi6?g_st=aw"
 }
   ],
@@ -238,7 +238,7 @@
     {
       "id": "guide-01",
       "name": "Tariq Al-Majali",
-      "photo": "images/guides/tariq.jpg",
+      "photo": "images/tariq.jpeg",
       "location": "Petra & Southern Jordan",
       "yearsOfExperience": 12,
       "languages": [
@@ -266,7 +266,7 @@
     {
       "id": "guide-02",
       "name": "Sarah Al-Qudah",
-      "photo": "images/guides/sarah.jpg",
+      "photo": "images/sarah.jpeg",
       "location": "Ajloun & Northern Jordan",
       "yearsOfExperience": 6,
       "languages": [
@@ -294,7 +294,7 @@
     {
       "id": "guide-03",
       "name": "Abdullah Al-Hweitayt",
-      "photo": "images/guides/abdullah.jpg",
+      "photo": "images/abdullah.jpeg",
       "location": "Wadi Rum & Aqaba",
       "yearsOfExperience": 9,
       "languages": [
@@ -322,7 +322,7 @@
     {
       "id": "guide-04",
       "name": "Khaled Al-Abbadi",
-      "photo": "images/guides/khaled.jpg",
+      "photo": "images/khaled.jpeg",
       "location": "Dead Sea & Madaba Region",
       "yearsOfExperience": 8,
       "languages": [
@@ -350,7 +350,7 @@
     },
     {"id": "guide-05",
       "name": "Nour Al-Zaben",
-      "photo": "images/guides/nour.jpg",
+      "photo": "images/nour.jpeg",
       "location": "Eastern Desert & Badia",
       "yearsOfExperience": 5,
       "languages": [
@@ -379,7 +379,7 @@
     {
       "id": "guide-06",
       "name": "Ziad Al-Nabulsi",
-      "photo": "images/guides/ziad.jpg",
+      "photo": "images/ziad.jpg",
       "location": "Amman & Decapolis Cities",
       "yearsOfExperience": 7,
       "languages": [
