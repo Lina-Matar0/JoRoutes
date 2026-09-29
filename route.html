@@ -1,16 +1,150 @@
 <!DOCTYPE html>
-<html lang="en"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1.0"><title>Jo Routes — Your Jordan Route</title><link rel="stylesheet" href="style.css"></head>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Jo Routes — Your Jordan Route</title>
+        <link rel="stylesheet" href="style.css">
+    </head>
 <body>
-<header class="site-header"><div class="container header-inner"><a class="logo" href="index.html">Jo Routes</a><nav class="main-nav"><a href="index.html">Home</a><a href="index.html#destinations">Destinations</a><a href="index.html#experiences">Experiences</a><a href="plan.html">Plan Your Journey</a><a class="active" href="my-routes.html">My Routes</a></nav><div class="header-actions"><a class="primary-button" href="plan.html">Plan My Trip</a></div></div></header>
-<main><section class="section"><div class="container"><div class="eyebrow">Your Personalized Route</div><h1>Your Jordan Route</h1><p style="color:var(--muted);max-width:680px;margin-top:10px">A sample route based on your selected days and experiences.</p>
-<div class="route-summary"><div class="summary-item"><strong>6</strong><span>Days</span></div><div class="summary-item"><strong>5</strong><span>Destinations</span></div><div class="summary-item"><strong>3</strong><span>Experiences</span></div><div class="summary-item"><strong>Road</strong><span>Trip Style</span></div><div class="summary-item"><strong>Medium</strong><span>Activity</span></div></div>
-<div class="route-layout"><div>
-<article class="day-card"><div class="day-image"><img src="#" alt="Day 1 destination"></div><div class="day-content"><div class="eyebrow">Day 01</div><h3>Amman — Historic Start</h3><p>Begin your journey with a relaxed introduction to Amman's historic center and local atmosphere.</p><div class="day-meta"><span>📍 Amman</span><span>☀ Morning–Evening</span><span>◷ Flexible</span></div></div></article>
-<article class="day-card"><div class="day-image"><img src="#" alt="Day 2 destination"></div><div class="day-content"><div class="eyebrow">Day 02</div><h3>Jerash — Roman Heritage</h3><p>Explore ancient ruins and continue toward the northern landscapes of Jordan.</p><div class="day-meta"><span>📍 Jerash</span><span>◷ Full Day</span></div></div></article>
-<article class="day-card"><div class="day-image"><img src="#" alt="Day 3 destination"></div><div class="day-content"><div class="eyebrow">Day 03</div><h3>Madaba — Culture & Mosaics</h3><p>Discover local culture and historic landmarks before continuing south.</p><div class="day-meta"><span>📍 Madaba</span><span>◷ Half Day</span></div></div></article>
-<article class="day-card"><div class="day-image"><img src="#" alt="Day 4 destination"></div><div class="day-content"><div class="eyebrow">Day 04</div><h3>Petra — The Main Highlight</h3><p>Spend the day exploring the famous archaeological site and surrounding viewpoints.</p><div class="day-meta"><span>📍 Petra</span><span>◷ Full Day</span></div></div></article>
-<article class="day-card"><div class="day-image"><img src="#" alt="Day 5 destination"></div><div class="day-content"><div class="eyebrow">Day 05</div><h3>Wadi Rum — Desert Experience</h3><p>Travel through the desert landscape and enjoy a local Bedouin experience.</p><div class="day-meta"><span>📍 Wadi Rum</span><span>◷ Full Day</span></div></div></article>
-</div><aside class="side-panel"><div class="eyebrow">Your Route</div><h3>Designed around you</h3><p>This panel can contain the trip summary, estimated cost, travel notes, and personalized recommendations.</p><a class="dark-button" href="#">Save Route</a><a class="secondary-button" href="plan.html" style="width:100%;margin-top:8px">Edit Preferences</a></aside></div>
-</div></section></main>
+<header class="site-header">
+    <div class="container header-inner">
+        <a class="logo" href="index.html">Jo Routes</a>
+        <nav class="main-nav">
+            <a href="index.html">Home</a>
+            <a href="index.html#destinations">Destinations</a>
+            <a href="index.html#experiences">Experiences</a>
+            <a href="plan.html">Plan Your Journey</a>
+            <a class="active" href="my-routes.html">My Routes</a>
+        </nav>
+        <div class="header-actions">
+            <a class="primary-button" href="plan.html">Plan My Trip</a>
+        </div>
+    </div>
+</header>
+<main id="route-plan">
+    <section class="section">
+        <div class="container">
+            <div class="eyebrow">Your Personalized Route</div>
+            <h1>Your Jordan Route</h1>
+            <p style="color:var(--muted);max-width:680px;margin-top:10px">A sample route based on your selected days and experiences.</p>
+<div class="route-summary">
+    <div class="summary-item">
+        <span>DURATION</span>
+        <strong>5 Days</strong>
+    </div>
+    <div class="summary-item">
+        <span>THEME</span>
+        <strong>History</strong>
+    </div>
+    <div class="summary-item">
+        <span>KEY SITES</span>
+        <strong>3 Destinations</strong>
+    </div>
+    <div class="summary-item" style="background-color: var(--lightpink);">
+        <span>ESTIMATED BUDGET</span>
+        <strong>$300 Per person</strong>
+    </div>
+</div>
+
+
+<div class="route-layout">
+    <div>
+<article class="day-card">
+    <div class="day-image">
+        <img src="data.json" alt="Day 1 destination">
+    </div>
+    <div class="day-content">
+        <div class="eyebrow">Day 01</div>
+        <h3>Amman — Historic Start</h3>
+        <p>Begin your journey with a relaxed introduction to Amman's historic center and local atmosphere.</p>
+        <div class="day-meta">
+            <span>📍 Amman</span>
+            <span>◷ Flexible</span>
+            <span>$15-20</span>
+            <p><a href="data.json">Location on Maps ></a></p>
+        </div>
+    </div>
+</article>
+
+<article class="day-card">
+    <div class="day-image">
+        <img src="data.json" alt="Day 2 destination">
+    </div>
+    <div class="day-content">
+        <div class="eyebrow">Day 02</div>
+        <h3>Jerash — Roman Heritage</h3>
+        <p>Explore ancient ruins and continue toward the northern landscapes of Jordan.</p>
+        <div class="day-meta">
+            <span>📍 Jerash</span>
+            <span>◷ Full Day</span>
+             <span>$15-20</span>
+            <p><a href="data.json">Location on Maps ></a></p>
+        </div>
+    </div>
+</article>
+<article class="day-card"><div class="day-image"><img src="data.json" alt="Day 3 destination"></div><div class="day-content"><div class="eyebrow">Day 03</div><h3>Madaba — Culture & Mosaics</h3><p>Discover local culture and historic landmarks before continuing south.</p><div class="day-meta"><span>📍 Madaba</span><span>◷ Half Day</span> <span>$15-20</span><p><a href="data.json">Location on Maps ></a></p></div></div></article>
+<article class="day-card"><div class="day-image"><img src="data.json" alt="Day 4 destination"></div><div class="day-content"><div class="eyebrow">Day 04</div><h3>Petra — The Main Highlight</h3><p>Spend the day exploring the famous archaeological site and surrounding viewpoints.</p><div class="day-meta"><span>📍 Petra</span><span>◷ Full Day</span> <span>$15-20</span><p><a href="data.json">Location on Maps ></a></p></div></div></article>
+<article class="day-card"><div class="day-image"><img src="data.json" alt="Day 5 destination"></div><div class="day-content"><div class="eyebrow">Day 05</div><h3>Wadi Rum — Desert Experience</h3><p>Travel through the desert landscape and enjoy a local Bedouin experience.</p><div class="day-meta"><span>📍 Wadi Rum</span><span>◷ Full Day</span> <span>$15-20</span><p><a href="data.json">Location on Maps ></a></p></div></div></article>
+
+</div>
+
+
+
+<div class="guide-card">
+
+    <div class="guide-photo">
+        <img src="data.json" alt="Local guide">
+
+        <div class="guide-info">
+            <h3>Tariq Al-Majali</h3>
+            <span>8 Years of Experience</span>
+        </div>
+    </div>
+
+    <div class="guide-destinations">
+        <span>REGIONAL ANCHOR</span>
+        <strong>Petra, Wadi Rum & Southern Deserts</strong>
+    </div>
+
+    <div class="guide-details">
+
+        <div class="guide-box">
+            <span>LANGUAGES</span>
+            <strong>Arabic, English, French</strong>
+        </div>
+
+        <div class="guide-box">
+            <span>FOCUS</span>
+            <strong>Bedouin Oral History</strong>
+        </div>
+
+    </div>
+
+    <p class="guide-description">
+        "Born in the sandstone valleys near Wadi Musa,
+         Tariq has guided cultural journeys with a profound passion 
+         for Jordan's living desert heritage and architectural wonders."
+    </p>
+
+    <a href="#" class="contact-guide">Contact Guide Tariq</a>
+
+</div>
+
+
+<aside class="side-panel">
+   <!-- <div class="eyebrow">Your Route</div>
+    <h3>Designed around you</h3>
+    <p>This panel can contain the trip summary, estimated cost, travel notes, and personalized recommendations.</p>-->
+    <a class="dark-button" href="#"><img src="./images/heart.svg" alt="< "> Save Route <img src="./images/heart.svg" alt=">"></a>
+    <a class="secondary-button" href="plan.html" style="width:100%;margin-top:8px">Edit Preferences</a>
+</aside>
+
+</div>
+</div>
+</section>
+</main>
+
 <footer class="site-footer"><div class="container footer-bottom" style="margin-top:0"><span>© 2026 Jo Routes</span><a href="index.html">Back to Home</a></div></footer>
-</body></html>
+</body>
+</html>
