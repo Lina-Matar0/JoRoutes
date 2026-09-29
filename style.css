@@ -132,7 +132,11 @@ h3 { font-size: 21px; line-height: 1.25; }
 .experience-card .card-image { height: 180px; }
 .experience-card .card-content { padding: 16px; }
 
-.cta-section { background: #eee1d2; text-align: center; }
+.cta-section { display: flex; justify-content: center; align-items: center; background: #eee1d2; text-align: center; }
+.cta-section img {
+    display: block;
+    margin: 0 auto;
+}
 .cta-box { max-width: 720px; margin: auto; }
 .cta-box p { color: var(--muted); margin: 14px auto 24px; }
 
