@@ -221,6 +221,7 @@ h3 { font-size: 21px; line-height: 1.25; }
 .route-label { font-size: 10px; color: var(--terracotta); text-transform: uppercase; letter-spacing: .08em; font-weight: 700; }
 .route-actions { display: flex; gap: 8px; margin-top: 16px; }
 .route-actions a { flex: 1; }
+.my-routes-page { background-color: var(--lightpink); }
 
 /* Footer */
 .site-footer { background: #f0e5d8; padding: 54px 0 22px; border-top: 1px solid var(--border); }
