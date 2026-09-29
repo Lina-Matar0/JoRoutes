@@ -233,6 +233,8 @@ h3 { font-size: 21px; line-height: 1.25; }
 .footer-column a { display: block; color: var(--muted); font-size: 12px; margin: 8px 0; }
 .footer-bottom { border-top: 1px solid var(--border); margin-top: 36px; padding-top: 16px; display: flex; justify-content: space-between; color: var(--muted); font-size: 10px; }
 
+#plan-page, .page-hero, .option-card {background-color: var(--lightpink);}
+
 @media (max-width: 900px) {
   .main-nav { gap: 14px; }
   .intro-grid, .route-layout { grid-template-columns: 1fr; }
