@@ -211,15 +211,15 @@
      "bestTime":"Autumn" ,
      "image":"images/WadiRum.jpg",
      "mapsLink": "https://maps.app.goo.gl/3Ab8r7n98xWqFbpq7?g_st=aw"},
-  {"id":" Roman Theatre",
-     "name":"Roman Theatre",
+  {   "id":" Roman Theater",
+     "name":"Roman Theater",
      "location":"Downtown — Amman",
      "categories":[ "History & Culture · Hidden Gems" ],
      "description":"A restored Roman theater dating back to the 2nd century AD, built on the slopes of three hills, with a capacity of approximately 6,000 people, it's still used for performances." ,
      "estimatedCost":" $1 — $3  " ,
      "duration": "1 hour" ,
      "bestTime":" any Time" ,
-     "image":"images/RomanTheatre.jpg",
+     "image":"images/RomanTheater.jpg",
      "mapsLink": "https://maps.app.goo.gl/s3wRw9DzyLuBZ1FC8?g_st=aw"
   }
  ,{   "id":"Ajloun Forest Reserve ",
@@ -379,7 +379,7 @@
     {
       "id": "guide-06",
       "name": "Ziad Al-Nabulsi",
-      "photo": "images/ziad.jpg",
+      "photo": "images/zaid.jpg",
       "location": "Amman & Decapolis Cities",
       "yearsOfExperience": 7,
       "languages": [
