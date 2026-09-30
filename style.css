@@ -285,7 +285,7 @@ aside a { display: block; width: 100%;}
 
 .guide-destinations span {
     font-size: 14px;
-    color: var(--muted);
+   color: var(--muted);
 }
 
 .guide-details {
@@ -306,6 +306,7 @@ aside a { display: block; width: 100%;}
     font-size: 11px;
     color: var(--muted);
     margin-bottom: 5px;
+    
 }
 
 .guide-box strong {
